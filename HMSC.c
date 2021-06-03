@@ -5,7 +5,7 @@
 #include<stdlib.h>
 #include<time.h>
 
-void add();  //FUNCTIONS
+void add(); 
 void list();
 void edit();  //GLOBALLY DECLARED FUNCTIONS N VARIABLE
 void delete1();
